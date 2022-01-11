@@ -1,0 +1,1 @@
+This was a beginning project used to learn java and oop
